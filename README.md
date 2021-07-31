@@ -20,7 +20,7 @@
     <img align="center" alt="Warton-javascript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
     <img align="center" alt="Warton-css3" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg'>
     <img align="center" alt="Warton-html5" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg'>
-    <img align="center" alt="Warton-bash" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg'>
+    <img align="center" alt="Warton-bash" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'>
     <img align="center" alt="Warton-java" height="40" width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg'>
 
   </div>
