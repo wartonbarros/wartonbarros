@@ -5,7 +5,7 @@
 
 
 - 🔭 Trabalho atualmente com telecomunicações
-- 🌱 Estou estudando Javascript
+- 🌱 Estou estudando Java
 - 📫 Você pode me contatar pelo e-mail warton86@gmail.com
 
 <div>
